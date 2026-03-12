@@ -41,11 +41,24 @@ I bridge the gap between technical **Animal Health Technology** and **Data-Drive
 ## 📬 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/samuel-olawuyi-49a650206]
 - **Business:** Founder at **Samkay Agric Ventures**.
+<p align="center">
+  <a href="https://github.com/samolawuyi.pdf">
+    <img src="https://img.shields.io/badge/Download-My%20CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</p>
 
 ---
 ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samolawuyi&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radial)
+
+---
+
+### 🌟 Current Focus
+I am currently open to **Agritech collaborations**, **Data Analysis projects**, and **Business Development** roles. If you're looking for someone who can turn raw operational data into a strategic roadmap, let's talk!
+
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/samuel-olawuyi-49a650206)
+[![](https://img.shields.io/badge/Email-Get_in_Touch-red?style=social&logo=gmail)](solawuyi38@gmail.com)
 
 
 <!--
