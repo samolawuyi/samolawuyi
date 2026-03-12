@@ -1,4 +1,11 @@
 # Hi there, I'm Samuel Olukayode Olawuyi 👋
+## 🛠️ Tech Stack & Skills
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFD700?style=for-the-badge&logo=google-analytics&logoColor=black)
+![Sustainable Agri](https://img.shields.io/badge/Sustainable_Agri-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
+
 ### Data Analyst | Agritech Innovator | Founder, Samkay Agric Ventures
 
 I bridge the gap between technical **Animal Health Technology** and **Data-Driven Strategy**. My work focuses on building decision-support tools that optimize operations in agriculture and business.
@@ -34,6 +41,11 @@ I bridge the gap between technical **Animal Health Technology** and **Data-Drive
 ## 📬 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/samuel-olawuyi-49a650206]
 - **Business:** Founder at **Samkay Agric Ventures**.
+
+---
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samolawuyi&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radial)
 
 
 <!--
