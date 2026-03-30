@@ -5,7 +5,12 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFD700?style=for-the-badge&logo=google-analytics&logoColor=black)
 ![Sustainable Agri](https://img.shields.io/badge/Sustainable_Agri-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue) 
+![PowerBI](https://img.shields.io/badge/Power_BI-DAX-yellow) 
+![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
+I am a technical professional dedicated to the intersection of Agriculture and Data Intelligence. With a strong foundation in Animal Health Technology, I specialize in transforming complex datasets into actionable business insights and automated reporting solutions.
 ### Data Analyst | Agritech Innovator | Founder, Samkay Agric Ventures
 
 I bridge the gap between technical **Animal Health Technology** and **Data-Driven Strategy**. My work focuses on building decision-support tools that optimize operations in agriculture and business.
@@ -20,6 +25,39 @@ I bridge the gap between technical **Animal Health Technology** and **Data-Drive
 ---
 
 ## 📂 Featured Project Portfolio
+
+# 🧹 SQL Data Cleaning: World Layoffs Dataset
+
+## 📌 Project Overview
+Data is often messy and unusable in its raw form. This project demonstrates a comprehensive **Data Cleaning** process using MySQL to transform a raw layoffs dataset into a structured, reliable format for analysis. 
+
+## 🛠️ Cleaning Steps & Logic
+1. **Duplicate Removal:** Used `ROW_NUMBER()` and `CTE`s to identify and remove redundant records.
+2. **Standardization:** - Trimmed whitespace from company names.
+   - Unified naming conventions (e.g., merging all 'Crypto' variants).
+   - Standardized country names (removing trailing periods).
+3. **Null Handling:** Performed **Self-Joins** to populate missing industry data based on existing records for the same company.
+4. **Data Type Casting:** Converted the `date` column from text to a proper `DATE` format for time-series compatibility.
+
+## 🚀 Impact
+The final dataset is free of duplicates, standardized across all dimensions, and ready for high-level exploratory analysis.
+
+# 📈 SQL Exploratory Data Analysis (EDA): Global Layoffs
+
+
+## 📌 Project Overview
+With the data cleaned, I performed an in-depth **Exploratory Data Analysis** to uncover global economic trends between 2020 and 2023. This project focuses on identifying high-impact sectors and the velocity of workforce reductions.
+
+## 📊 Key Analytical Insights
+* **Industry Impact:** Identified the top-hit sectors (Consumer, Retail, and Transportation).
+* **Rolling Totals:** Calculated a **Month-over-Month rolling total** of layoffs to track the acceleration of the economic downturn.
+* **Top 5 Rankings:** Used `DENSE_RANK()` and `CTEs` to identify the top 5 companies with the most layoffs for *each individual year*.
+
+## 🛠️ Technical Highlight
+This project makes heavy use of **Advanced SQL** features including:
+* Window Functions (`OVER`, `PARTITION BY`)
+* Multiple CTEs for complex ranking logic
+* Subqueries for multi-layered aggregations
 
 ### 🚜 Agritech & TCO (Total Cost of Ownership)
 * **[Pet/Livestock Economics](https://github.com/samolawuyi/Pet-Ownership-Economics-A-Comparative-Cost-Model):** Comparative model for initial vs. recurring animal care costs.
