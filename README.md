@@ -11,9 +11,10 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
 I am a technical professional dedicated to the intersection of Agriculture and Data Intelligence. With a strong foundation in Animal Health Technology, I specialize in transforming complex datasets into actionable business insights and automated reporting solutions.
-### Data Analyst | Agritech Innovator | Founder, Samkay Agric Ventures
 
 I bridge the gap between technical **Animal Health Technology** and **Data-Driven Strategy**. My work focuses on building decision-support tools that optimize operations in agriculture and business.
+
+### Data Analyst | Agritech Innovator | Founder, Samkay Agric Ventures
 
 ---
 
